@@ -1,0 +1,40 @@
+{
+    readline 8.2_arm
+    Memcheck:Leak
+    match-leak-kinds: reachable
+    ...
+    obj:/usr/lib/aarch64-linux-gnu/libreadline.so.8.2
+}
+
+{
+    readline 8.2_x86
+    Memcheck:Leak
+    match-leak-kinds: reachable
+    ...
+    obj:/usr/lib/x86_64-linux-gnu/libreadline.so.8.2
+}
+
+{
+    readline_8.1_arm
+    Memcheck:Leak
+    match-leak-kinds: reachable
+    ...
+    obj:/usr/lib/aarch64-linux-gnu/libreadline.so.8.1
+}
+
+{
+    readline_8.1_x86
+    Memcheck:Leak
+    match-leak-kinds: reachable
+    ...
+    obj:/usr/lib/x86_64-linux-gnu/libreadline.so.8.1
+}
+
+{
+	readline_leak_generic
+	Memcheck:Leak
+	match-leak-kinds: reachable
+	...
+	obj:*/libreadline.so.*
+}
+
