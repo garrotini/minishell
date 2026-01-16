@@ -1,9 +1,14 @@
 # minishell
 
 ## description
+
 This is a simplified Unix shell project, part of the 42 school curriculum. 
+
 It should somehow be similar to Bash (Bourne Again Shell).
-It was a group project. I took care of the parsing and Joefriends (https://github.com/Joefriends) took care of the execution.
+
+It was a group project.
+
+I took care of the parsing and Joefriends (https://github.com/Joefriends) took care of the execution.
 
 ## features
 
@@ -88,6 +93,7 @@ src/
 ## demo
 
 here's some examples of **minishell** compared to **BASH**
+
 (I totally forgot to test `exit` command!)
 
 [![minishell.mp4](https://github.com/user-attachments/assets/b33d3532-6dff-412f-9680-546c3d1b96d5)](https://github.com/user-attachments/assets/3bd17bbc-e5f5-4d23-a79b-75329b17cb00)
@@ -95,3 +101,4 @@ here's some examples of **minishell** compared to **BASH**
 
 ## license
 This project is part of the 42 school curriculum.
+
