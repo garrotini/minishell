@@ -94,11 +94,12 @@ src/
 
 here's some examples of **minishell** compared to **BASH**
 
-(I totally forgot to test `exit` command!)
+(I totally forgot to demo `exit` command!)
 
 [![minishell.mp4](https://github.com/user-attachments/assets/b33d3532-6dff-412f-9680-546c3d1b96d5)](https://github.com/user-attachments/assets/3bd17bbc-e5f5-4d23-a79b-75329b17cb00)
 
 
 ## license
 This project is part of the 42 school curriculum.
+
 
