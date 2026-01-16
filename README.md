@@ -1,6 +1,6 @@
 # minishell
 
-## usage
+## description
 This is a simplified Unix shell project, part of the 42 school curriculum. 
 It should somehow be similar to Bash (Bourne Again Shell).
 It was a group project. I took care of the parsing and Joefriends (https://github.com/Joefriends) took care of the execution.
